@@ -2,7 +2,7 @@
 
 This repository is implemented by Python3 and OpenCV. Fast, efficient and easy to read.
 
-Key features:
+**Key features**:
 
 1. Implemented by the built-in functions, no loop.
 2. A simple non-maximum suppression (nms) for post processing.
